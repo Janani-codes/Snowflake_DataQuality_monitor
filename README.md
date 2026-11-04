@@ -147,6 +147,21 @@ Streamlit Dashboard
 
 ---
 
+## What's New in Version 2.0
+
+* **Enhanced Dashboard UI:** Improved Streamlit dashboard with a cleaner and more professional interface.
+* **Interactive Visualizations:** Added interactive Plotly charts for better data analysis.
+* **Data Health Monitoring:** Monitor overall data quality using health scores and KPI cards.
+* **Historical Failure Trends:** Visualize data quality failures over time.
+* **Demo Mode:** Explore the dashboard using sample data without requiring an active Snowflake connection.
+
+### Running in Demo Mode
+
+The dashboard supports a demo mode that uses sample data. This allows users to explore its features without connecting to Snowflake.
+
+Set `DEMO_MODE = True` in `app.py` to enable demo mode.
+
+
 ## Future Enhancements
 
 - Support multiple datasets
