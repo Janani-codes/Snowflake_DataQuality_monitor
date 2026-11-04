@@ -149,6 +149,13 @@ Streamlit Dashboard
 
 ## What's New in Version 2.0
 
+## Dashboard Preview
+
+The Snowflake Data Quality Monitor provides an interactive dashboard to monitor data quality, analyze failures, and track overall data health.
+
+![Streamlit Dashboard](screenshots/Streamlit%20Dashboard.png)
+
+
 * **Enhanced Dashboard UI:** Improved Streamlit dashboard with a cleaner and more professional interface.
 * **Interactive Visualizations:** Added interactive Plotly charts for better data analysis.
 * **Data Health Monitoring:** Monitor overall data quality using health scores and KPI cards.
